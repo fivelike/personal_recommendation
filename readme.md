@@ -4,3 +4,4 @@
 * [LFM](https://fivelike.xyz/2021/05/17/lfm/) 
 * [Personal Rank](https://fivelike.xyz/2021/05/17/Personal-Rank/) 
 * [Item2Vec](https://fivelike.xyz/2021/05/26/item2Vec/) 
+* [Content Based](https://fivelike.xyz/2021/05/28/ContentBased/)
